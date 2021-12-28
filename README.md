@@ -1,6 +1,6 @@
-## C program -- Convert ASCII strings to hexadecimal numbers
+## C++ program -- Convert ASCII strings to hexadecimal numbers
 
-This C application converts an ASCII string to a hexadecimal number to be input into an assembly source code file.
+This C++ application converts an ASCII string to a hexadecimal number to be input into an assembly source code file.
 
 To compile, run `make`.
 
@@ -13,5 +13,5 @@ Run this for a big-endian string:
 This also generates a big-endian string:
 > env -i ./exe helloworld
 
-I mainly wrote this to practice the use of environment variables and function pointers in C.
+I mainly wrote this to practice the use of environment variables.
 
